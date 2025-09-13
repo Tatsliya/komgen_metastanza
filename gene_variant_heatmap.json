@@ -1,0 +1,296 @@
+[
+  {
+    "gene": "ARID1A",
+    "likely_pathogenic": 0.6238,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "PTCH2",
+    "likely_pathogenic": null,
+    "likely_benign": 0.1004,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "MSH6",
+    "likely_pathogenic": null,
+    "likely_benign": 0.3295,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "IDH1",
+    "likely_pathogenic": 0.9805,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "D2HGDH",
+    "likely_pathogenic": null,
+    "likely_benign": 0.0734,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "CTNNB1",
+    "likely_pathogenic": 0.9984,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "FGFR3",
+    "likely_pathogenic": 0.9983,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "HTT",
+    "likely_pathogenic": null,
+    "likely_benign": 0.0772,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "PDGFRA",
+    "likely_pathogenic": null,
+    "likely_benign": 0.0592,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "MCC",
+    "likely_pathogenic": null,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": 0.5
+  },
+  {
+    "gene": "BRPF3",
+    "likely_pathogenic": null,
+    "likely_benign": 0.0618,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "ARID1B",
+    "likely_pathogenic": null,
+    "likely_benign": null,
+    "ambiguous": 0.488,
+    "unknown": null
+  },
+  {
+    "gene": "MET",
+    "likely_pathogenic": null,
+    "likely_benign": 0.0759,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "SMO",
+    "likely_pathogenic": 0.9897,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "MYC",
+    "likely_pathogenic": null,
+    "likely_benign": 0.0717,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "LURAP1L",
+    "likely_pathogenic": null,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": 0.5
+  },
+  {
+    "gene": "NTRK2",
+    "likely_pathogenic": null,
+    "likely_benign": 0.1145,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "PTCH1",
+    "likely_pathogenic": null,
+    "likely_benign": 0.1274,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "KLF4",
+    "likely_pathogenic": null,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": 0.5
+  },
+  {
+    "gene": "TSC1",
+    "likely_pathogenic": null,
+    "likely_benign": 0.1309,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "NOTCH1",
+    "likely_pathogenic": null,
+    "likely_benign": 0.2977,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "FGFR2",
+    "likely_pathogenic": null,
+    "likely_benign": null,
+    "ambiguous": 0.4708,
+    "unknown": null
+  },
+  {
+    "gene": "ZFTA",
+    "likely_pathogenic": null,
+    "likely_benign": 0.1217,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "KMT2D",
+    "likely_pathogenic": 0.7303,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "SMARCD1",
+    "likely_pathogenic": null,
+    "likely_benign": null,
+    "ambiguous": 0.3929,
+    "unknown": null
+  },
+  {
+    "gene": "PHLDA1",
+    "likely_pathogenic": null,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": 0.5
+  },
+  {
+    "gene": "ATXN2",
+    "likely_pathogenic": null,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": 0.5
+  },
+  {
+    "gene": "HNF1A",
+    "likely_pathogenic": null,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": 0.5
+  },
+  {
+    "gene": "BRCA2",
+    "likely_pathogenic": null,
+    "likely_benign": 0.0626,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "RB1",
+    "likely_pathogenic": null,
+    "likely_benign": 0.0768,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "DICER1",
+    "likely_pathogenic": null,
+    "likely_benign": 0.1116,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "TSC2",
+    "likely_pathogenic": null,
+    "likely_benign": 0.0794,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "CREBBP",
+    "likely_pathogenic": null,
+    "likely_benign": null,
+    "ambiguous": 0.3997,
+    "unknown": null
+  },
+  {
+    "gene": "GSE1",
+    "likely_pathogenic": null,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": 0.5
+  },
+  {
+    "gene": "TP53",
+    "likely_pathogenic": null,
+    "likely_benign": 0.0724,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "NF1",
+    "likely_pathogenic": null,
+    "likely_benign": 0.1112,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "PPM1D",
+    "likely_pathogenic": 0.9929,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "SMARCA4",
+    "likely_pathogenic": null,
+    "likely_benign": 0.077,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "NOTCH3",
+    "likely_pathogenic": null,
+    "likely_benign": 0.1792,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "LZTR1",
+    "likely_pathogenic": null,
+    "likely_benign": null,
+    "ambiguous": 0.4107,
+    "unknown": null
+  },
+  {
+    "gene": "DDX3X",
+    "likely_pathogenic": 0.5753,
+    "likely_benign": null,
+    "ambiguous": null,
+    "unknown": null
+  },
+  {
+    "gene": "ATRX",
+    "likely_pathogenic": null,
+    "likely_benign": 0.273,
+    "ambiguous": null,
+    "unknown": null
+  }
+]
